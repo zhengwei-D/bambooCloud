@@ -1,0 +1,15 @@
+server:
+  port: 8000
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka/,http://eureka7002.com:7002/eureka/,http://eureka7003.com:7003/eureka/  #eureka服务端地址
+    register-with-eureka: false
+  instance:
+    instance-id: bambooCloud-user8000     #eureka控制台中 客户端的别名
+    prefer-ip-address: true                                #eureka控制台中 客户端别名超链接提示显示出ip地址
+
+feign:
+  hystrix:
+    enabled: true

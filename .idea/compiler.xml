@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bambooCloud-api" />
+        <module name="bambooCloud-consumer-user-8000" />
+        <module name="bambooCloud-eureka-7001" />
+        <module name="bambooCloud-eureka-7002" />
+        <module name="bambooCloud-eureka-7003" />
+        <module name="bambooCloud-hystrix-dashboard" />
+        <module name="bambooCloud-provider-user-8001" />
+        <module name="bambooCloud-provider-user-8002" />
+        <module name="bambooCloud-provider-user-8003" />
+        <module name="bambooCloud-zuul-gateway-9527" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bambooCloud" target="1.8" />
+      <module name="bambooCloud-api" target="1.8" />
+      <module name="bambooCloud-consumer-user-8000" target="1.8" />
+      <module name="bambooCloud-eureka-7001" target="1.8" />
+      <module name="bambooCloud-eureka-7002" target="1.8" />
+      <module name="bambooCloud-eureka-7003" target="1.8" />
+      <module name="bambooCloud-hystrix-dashboard" target="1.8" />
+      <module name="bambooCloud-provider-user-8001" target="1.8" />
+      <module name="bambooCloud-provider-user-8002" target="1.8" />
+      <module name="bambooCloud-provider-user-8003" target="1.8" />
+      <module name="bambooCloud-zuul-gateway-9527" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
