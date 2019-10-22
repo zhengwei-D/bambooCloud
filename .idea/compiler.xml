@@ -15,6 +15,7 @@
         <module name="bambooCloud-provider-user-8001" />
         <module name="bambooCloud-provider-user-8002" />
         <module name="bambooCloud-provider-user-8003" />
+        <module name="bambooCloud-rabbitmq-demo" />
         <module name="bambooCloud-zuul-gateway-9527" />
       </profile>
     </annotationProcessing>
@@ -29,6 +30,7 @@
       <module name="bambooCloud-provider-user-8001" target="1.8" />
       <module name="bambooCloud-provider-user-8002" target="1.8" />
       <module name="bambooCloud-provider-user-8003" target="1.8" />
+      <module name="bambooCloud-rabbitmq-demo" target="1.8" />
       <module name="bambooCloud-zuul-gateway-9527" target="1.8" />
     </bytecodeTargetLevel>
   </component>

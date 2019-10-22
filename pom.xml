@@ -16,6 +16,7 @@
         <module>bambooCloud-provider-user-8003</module>
         <module>bambooCloud-hystrix-dashboard</module>
         <module>bambooCloud-zuul-gateway-9527</module>
+        <module>bambooCloud-rabbitmq-demo</module>
     </modules>
     <packaging>pom</packaging>
 
