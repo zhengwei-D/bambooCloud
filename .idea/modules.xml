@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/bambooCloud-provider-user-8002/bambooCloud-provider-user-8002.iml" filepath="$PROJECT_DIR$/bambooCloud-provider-user-8002/bambooCloud-provider-user-8002.iml" />
       <module fileurl="file://$PROJECT_DIR$/bambooCloud-provider-user-8003/bambooCloud-provider-user-8003.iml" filepath="$PROJECT_DIR$/bambooCloud-provider-user-8003/bambooCloud-provider-user-8003.iml" />
       <module fileurl="file://$PROJECT_DIR$/bambooCloud-rabbitmq-demo/bambooCloud-rabbitmq-demo.iml" filepath="$PROJECT_DIR$/bambooCloud-rabbitmq-demo/bambooCloud-rabbitmq-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bambooCloud-wx-6000/bambooCloud-wx-6000.iml" filepath="$PROJECT_DIR$/bambooCloud-wx-6000/bambooCloud-wx-6000.iml" />
       <module fileurl="file://$PROJECT_DIR$/bambooCloud-zuul-gateway-9527/bambooCloud-zuul-gateway-9527.iml" filepath="$PROJECT_DIR$/bambooCloud-zuul-gateway-9527/bambooCloud-zuul-gateway-9527.iml" />
     </modules>
   </component>

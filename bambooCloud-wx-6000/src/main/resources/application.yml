@@ -1,0 +1,7 @@
+server:
+  port: 6000
+
+wx:
+  token: bambooWx
+  appId: wx9e2ca8be6d7e98e3
+  appsecret: 8625917c65dfccb572934da4aaededc2

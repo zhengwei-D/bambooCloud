@@ -17,6 +17,7 @@
         <module>bambooCloud-hystrix-dashboard</module>
         <module>bambooCloud-zuul-gateway-9527</module>
         <module>bambooCloud-rabbitmq-demo</module>
+        <module>bambooCloud-wx-6000</module>
     </modules>
     <packaging>pom</packaging>
 

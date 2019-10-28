@@ -33,7 +33,7 @@ public class UserController {
 
 	@RequestMapping(value = "user/add", produces = "application/json; charset=utf-8")
 	public String add(User user){
-		userService.addUser(user);
+		userService.add(user);
 		return "阿发的个";
 	}
 
